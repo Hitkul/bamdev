@@ -1,6 +1,6 @@
 <p float="left">
-  <img src="pakhi.jpg" style ="width:"50%;"/>
-  <img src="pakhi_gif.gif" style ="width:"50%;" /> 
+  <img src="pakhi.jpg" width="500"/>
+  <img src="pakhi_gif.gif" width="500" /> 
 </p>
 
 # 🌸 se pyar, Jawani ki 🔥...
